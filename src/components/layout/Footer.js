@@ -1,9 +1,10 @@
 import React from 'react';
+import '../../styles/components/layout/Footer.css';
 
 const Footer = (props) => {
     return (
         <footer>
-            <p>Derechos reservados. Francisco Tiphaine - Año 2022</p>
+            <p>COPYRIGHT © 2022. ALL RIGHTS RESERVED</p>
         </footer>
     );
 }
