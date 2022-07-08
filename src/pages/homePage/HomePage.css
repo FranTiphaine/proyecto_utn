@@ -1,0 +1,12 @@
+.principalHome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.homeImage {
+    image-resolution: inherit;
+}

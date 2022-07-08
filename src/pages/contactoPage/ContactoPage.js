@@ -2,8 +2,11 @@ import React from 'react';
 
 const ContactoPage = (props) => {
     return (
-        <div>Dejanos un mensaje!</div>
-    );
+        <div>
+
+        </div>
+    )
+        ;
 }
 
 export default ContactoPage;
