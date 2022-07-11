@@ -3,18 +3,18 @@
     width: 100%;
     font-size: 1rem;
     background-color: rgba(241, 241, 236, 0.92);
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
     webkit-box-shadow: 0 5px 10px 0 rgb(0 0 0 / 10%);
     box-shadow: 0 5px 10px 0 rgb(0 0 0 / 10%);
+    margin-bottom: 1rem;
+    line-height: 2rem;
 }
+
 
 
 .navbar-item {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    align-content: center;
+    flex-direction: column;
     margin-left: 1rem;
     color: inherit;
     text-decoration: inherit;

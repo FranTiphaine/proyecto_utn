@@ -17,6 +17,7 @@ const Navigator = (props) => {
                     <Nav>
                         <Link to="/" className="navbar-item">Bienvenidos</Link>
                         <Link to="asistencia" className="navbar-item">Asistencia</Link>
+                        <Link to="ubicacion" className="navbar-item">Ubicación</Link>
                         <Link to="regalos" className="navbar-item">Regalos</Link>
                         <Link to="contacto" className="navbar-item">Mensajes</Link>
                     </Nav>

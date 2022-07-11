@@ -1,4 +1,4 @@
-.principalHome {
+.contenedorPrincipalHome {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -6,7 +6,18 @@
 
 
 
-
 .homeImage {
     image-resolution: inherit;
+}
+
+.contenedorHome2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+
+}
+.contenedorImagenes {
+    display: flex;
+    justify-content: center;
 }

@@ -1,0 +1,26 @@
+.contenedorContacto {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+
+}
+
+.textoContacto {
+    padding-top: 2rem;
+}
+
+.formularioContacto {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    padding: 5rem;
+    margin: 1rem;
+    width: 100%;
+}
+
+.botonEnvio {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+}

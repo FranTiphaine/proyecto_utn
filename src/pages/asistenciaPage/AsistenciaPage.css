@@ -1,0 +1,32 @@
+.containerAsistencia {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+}
+
+.formularioAsistencia {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    text-align: left;
+    padding: 3rem;
+    width: 100%;
+    border-radius: inherit;
+}
+
+.tituloasistencia {
+    padding-top: 1rem;
+}
+
+.botonEnvio {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+}
+
+.tituloFormulario {
+   text-align: center;
+    text-transform: uppercase;
+    text-underline: grey;
+
+}
