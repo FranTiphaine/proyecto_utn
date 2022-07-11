@@ -13,7 +13,7 @@ const Navigator = (props) => {
             <Container fluid>
                 <Navbar.Brand><Link to='/'>CASAMIENTO "FRAN & CAMI"</Link></Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav"/>
-                <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
+                <Navbar.Collapse className="justify-content-end">
                     <Nav>
                         <Link to="/" className="navbar-item">Bienvenidos</Link>
                         <Link to="asistencia" className="navbar-item">Asistencia</Link>
