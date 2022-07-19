@@ -10,6 +10,17 @@ const HomePage = (props) => {
                 <section>
                     <h2>Bienvenidos a Nuestro Casamiento!</h2>
                 </section>
+                <section>
+                    <h4>¡Estamos muy felices!</h4>
+                    <p>
+                        Queremos compartir con ustedes todo nuestro amor. Para eso, estamos preparando un casamiento
+                        que hará historia, donde habrá muchas emociones y alegría.
+                        Hemos vivido muchos momentos juntos, y será una fiesta inolvidable en la cual celebraremos
+                        junto a ustedes nuestra unión.
+                        ¡Nos vemos pronto! ❤️
+                        P.D.: ¡Confirmen su asistencia lo antes posible!
+                    </p>
+                </section>
                 <section className="contenedorImagenes">
                     <div id="carouselExampleControls" className="carousel slide carousel-fade" data-bs-ride="carousel">
                         <div className="carousel-inner">
@@ -34,17 +45,6 @@ const HomePage = (props) => {
                             <span className="visually-hidden">Next</span>
                         </button>
                     </div>
-                </section>
-                <section>
-                    <h4>¡Estamos muy felices!</h4>
-                    <p>
-                        Queremos compartir con ustedes todo nuestro amor. Para eso, estamos preparando un casamiento
-                        que hará historia, donde habrá muchas emociones y alegría.
-                        Hemos vivido muchos momentos juntos, y será una fiesta inolvidable en la cual celebraremos
-                        junto a ustedes nuestra unión.
-                        ¡Nos vemos pronto! ❤️
-                        P.D.: ¡Confirmen su asistencia lo antes posible!
-                    </p>
                 </section>
             </section>
         </main>

@@ -44,7 +44,6 @@ const AsistenciaPage = () => {
 
                     </h4>
                 </section>
-                <hr></hr>
                 <section className="formularioAsistencia">
                     <div>
                         <legend className="tituloFormulario">Completa el formulario con tus datos!</legend>
@@ -79,7 +78,7 @@ const AsistenciaPage = () => {
                             <option selected>Seleccione la opción</option>
                             <option value="1">Carnes</option>
                             <option value="2">Veggie</option>
-                            <option value="3">Celiacos</option>
+                            <option value="3">Celíacos</option>
 
                         </select>
                     </div>

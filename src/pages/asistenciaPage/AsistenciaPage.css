@@ -5,13 +5,16 @@
 }
 
 .formularioAsistencia {
+    text-align: left;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-content: center;
-    text-align: left;
-    padding: 3rem;
-    width: 100%;
-    border-radius: inherit;
+    padding: 1rem;
+    margin: 1rem;
+    border: 0.2rem solid rgba(241, 241, 236, 0.92);
+    border-radius: 1rem;
+
 }
 
 .tituloasistencia {
